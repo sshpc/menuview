@@ -25,7 +25,7 @@ menu "${options[@]}"
 ```
 
 其他用法见 example.sh
-也可以参考 [https://github.com/sshpc/initsh](https://github.com/sshpc/initsh)
+或参考 [https://github.com/sshpc/initsh](https://github.com/sshpc/initsh)
 
 
 ## 三、示例
